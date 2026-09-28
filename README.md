@@ -8,7 +8,7 @@ differentially-private synthetic data generation (DPSDG) algorithm.
 
 - **Venue:** VLDB 2024 Workshop — International Workshop on Quality in Databases (QDB'24)
 - **Proceedings:** *Proceedings of Workshops at the 50th International Conference on Very Large Data Bases, 2024*
-- **Authors:** Eric Liu, Jiangnan Cheng, Steve Chuck, Lyublena Antova, Yurgis Baykshtis, Matt David, Ge Gao, Mehrdad Honarkhah, Kuan-Sung Huang, Chen-Kuei Lee, Usman Muhammad, Shihao Peng, Andrii Rosa, Rebecca Schlussel, Michael Shang, **Kelvin Silva**, Brandon Vo, Zac Wen, Yihao Zhou
+- **Authors:** Kelvin Silva *et al.*
 - **Affiliation:** Meta Platforms Inc.
 - **Official proceedings PDF:** https://vldb.org/workshops/2024/proceedings/QDB/QDB-5.pdf
 - **dblp:** https://dblp.org/pid/389/5143.html
